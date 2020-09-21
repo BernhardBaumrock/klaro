@@ -22,7 +22,7 @@ consentModal:
   privacyPolicy:
     name: Datenschutzerklärung
     text: Um mehr zu erfahren, lesen Sie bitte unsere {privacyPolicy}.
-  title: Dienstleistungen, die wir nutzen möchten
+  title: Dienste, die wir nutzen möchten
 consentNotice:
   changeDescription: Seit Ihrem letzten Besuch gab es Änderungen, bitte erneuern Sie
     Ihre Zustimmung.
